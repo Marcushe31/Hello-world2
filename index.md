@@ -5,7 +5,7 @@ title: Student Blog
 
 
 ## Marcus
-This is about your journey. Marcus
+Moke
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
