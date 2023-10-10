@@ -36,4 +36,4 @@ title: Student Blog
 </tr>
 <tr>
 <td>Advanced Football PE</td>
-<td>Period 5<td>
+<td>Period 5</td>
